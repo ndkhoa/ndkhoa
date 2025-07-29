@@ -2,10 +2,10 @@
 
 ## I am a Father
 
-My life philosophy: "Try not to become a man of success, but rather try to become a man of value" - Albert Einstein.
-
 - 🌍 I'm based in Ho Chi Minh, Vietnam
 - ✉️ You can contact me at [khoachilang@gmail.com](mailto:khoachilang@gmail.com)
+
+My life philosophy: "Try not to become a man of success, but rather try to become a man of value" - Albert Einstein.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ndkhoa&rank=SSS,SS,S,AAA,AA,A,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
 
