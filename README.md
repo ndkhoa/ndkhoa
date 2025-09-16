@@ -28,6 +28,13 @@ My life philosophy: "Try not to become a man of success, but rather try to becom
   </a>
 </p>
 
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-one-khaki-25.vercel.app/api?username=ndkhoa&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Khoa's GitHub stats" height="170"/>
+  <img src="https://github-readme-stats-one-khaki-25.vercel.app/api/top-langs/?username=ndkhoa&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="170"/>
+</div>
+
 <hr>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ndkhoa&style=for-the-badge&color=orange" width="150" />
