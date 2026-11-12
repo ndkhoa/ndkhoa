@@ -11,6 +11,7 @@ My life philosophy: "Try not to become a man of success, but rather try to becom
 
 ![Khoa's GitHub stats](https://github-readme-stats-one-khaki-25.vercel.app/api?username=ndkhoa&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true)
 ![Top Languages](https://github-readme-stats-one-khaki-25.vercel.app/api/top-langs/?username=ndkhoa&layout=compact&theme=transparent&hide_border=true)
+![Contributions](https://github-readme-contribution-merger.vercel.app/api/merge?users=ndkhoa%2Ckhoanguyenvireo%2Ckhoa100x&mode=overlay&colors=39d353%2C58a6ff%2Cbc8cff&bg=light)
 
 ### Socials
 
